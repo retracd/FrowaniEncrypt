@@ -7,4 +7,6 @@ As stated above (this is if the above was too long for you to read), the first f
 
 IF they are any bugs/issues with either, please state so as I would love to correct them and experience user input.
 
+The name comes from the Polish word for encryption, "szyfrowanie". In both programs you will see versions such as "FrowaniEncrypt v1.3.1". There are other versions but they were early versions of the program that might not have even worked. So I am just uploading the two final versions of the program I made.
+
 -Brent
