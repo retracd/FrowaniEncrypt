@@ -1,3 +1,6 @@
+#FrowaniEncrpyt v2.0.1
+#Programmed fully by Brent Mayes. Original Creation.
+
 import tkinter as tk
 from tkinter import *
 from tkinter import ttk
@@ -30,12 +33,14 @@ def decrypt(result):
         end_string = end_string + l
     outputentry.insert(INSERT, (end_string))
 
+#defines a function linked with a button that when pressed, clears the output box.    
 def clearinoutput():
     outputentry.delete('1.0', 'end')
 
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH, bg='#d8dfe6')
 canvas.pack()
 
+#Mainly everything bellow is all GUI, buttons, text, etc...
 maintitle = tk.Label(root, text="FrowaniEncrpyt v2.0.1", font=('System', 18), fg='#303336', anchor='n', bg='#acb5bd')
 maintitle.place(relx=0.28, rely=0.02, relwidth=0.41, relheight=0.08)
 
