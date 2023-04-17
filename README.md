@@ -1,6 +1,6 @@
 # FrowaniEncrypt
 *** IMPORTANT NOTE ***
-This code was made several years ago by primative programmer Brent, not the current ultra-genius Brent. Decided to make this public because why not? Code has been unedited since creation date. And yes I understand this is not actually an encryption program, but rather a cipher.
+START :: This code was made several years ago by primative programmer Brent, not the current ultra-genius Brent. Decided to make this public because why not? Code has been unedited since creation date. And yes I understand this is not actually an encryption program, but rather a cipher. :: END
 
 Just a small starter Python project I have worked on over a few days.
 
