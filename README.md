@@ -1,4 +1,7 @@
 # FrowaniEncrypt
+*** IMPORTANT NOTE ***
+This code was made several years ago by primative programmer Brent, not the current ultra-genius Brent. Decided to make this public because why not? Code has been unedited since creation date. And yes I understand this is not actually an encryption program, but rather a cipher.
+
 Just a small starter Python project I have worked on over a few days.
 
 I am finishing up learning Python as I finally am feeling more confident in it. What I am posting is two versions of a program I wrote. The former (testenc.py) being the original command-line program I wrote, it is just an uncompiled .py file. I wanted to make a program that "encrypts" text. Reading the code you will figure out how it works, it first converts the text to ASCII and then muliplies, divides, and subtracts those numbers to then output several two to three digit numbers, either positive or negative. The latter (enctk.py and enctk.exe) being the second version of the program. It therefore features a GUI as I wanted more experience in tkinter (the python library). I know it may not be a super pretty GUI, but I am please on how I implented my origincal code into the GUI. I am bound to further update it as I am passionate for it, though it was mainly just a learning experience for me.
